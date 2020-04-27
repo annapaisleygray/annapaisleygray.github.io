@@ -7,6 +7,7 @@ Her name is *Rosie*
 She is an **English Bulldog**
 
 ![Rosie pic](http://cdn3-www.dogtime.com/assets/uploads/gallery/bulldog-dog-breed-pictures/1-threequartersitting.jpg)
+(This isn't actually her but sort of similar hahahaha)
 
 These are her top 5 favorite activities:
   1. sleep
